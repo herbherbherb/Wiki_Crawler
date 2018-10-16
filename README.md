@@ -1,4 +1,4 @@
-# fa18-cs242-assignment2
+# Wiki Crawler with API
 # To install
 ###### It is recommanded to create a virtual environment first: 
 * To create virenv:
