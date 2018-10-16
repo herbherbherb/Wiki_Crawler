@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by igraph (http://igraph.org/) for use in Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+width="400px" height="400px"> <defs id="defs3">
+<marker
+   inkscape:stockid="Arrow2Lend0"
+   orient="auto"
+   refY="0.0"
+   refX="0.0"
+   id="Arrow2Lend0"
+   style="overflow:visible;">
+  <path
+     id="pathArrow0"
+     style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;fill:yellow"
+     d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+     transform="scale(1.1) rotate(180) translate(1,0)" />
+</marker>
+</defs>
+<g inkscape:groupmode="layer" id="layer2" inkscape:label="Lines" sodipodi:insensitive="true">
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 397.0,301.9633915379097 381.24966374242825,330.8957575942859"
+    id="path0"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g1"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g14"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 181.39518760583897,231.51708757535857 139.7544735523512,242.45578474457923"
+    id="path1"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g0"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g2"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 258.4791523486098,259.8161043319955 278.12429972272764,297.0159736604002"
+    id="path2"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g3"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g17"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 181.39518760583897,231.51708757535857 255.6629356944248,258.78221664143564"
+    id="path3"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g0"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g3"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 258.4791523486098,259.8161043319955 313.6544287357804,274.75072212209915"
+    id="path4"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g3"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g16"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 181.39518760583897,231.51708757535857 218.42113260061157,220.37125780111302"
+    id="path5"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g0"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g4"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 181.39518760583897,231.51708757535857 204.6139807883419,174.74291120884507"
+    id="path6"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g0"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g5"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 205.74958577760611,171.96615027056495 227.79746493271324,130.5909095678952"
+    id="path7"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g5"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g18"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 181.39518760583897,231.51708757535857 161.583522128653,291.8303243272367"
+    id="path8"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g0"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g6"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 160.64729859225196,294.6804972149558 144.15035875990077,343.8008105002986"
+    id="path9"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g6"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g19"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 181.39518760583897,231.51708757535857 199.26744198563452,334.88206595783055"
+    id="path10"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g0"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g7"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 199.77857096670382,337.8382031611266 175.73430864025673,389.0983255020726"
+    id="path11"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g7"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g22"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 199.77857096670382,337.8382031611266 209.3861267408543,394.04289232180014"
+    id="path12"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g7"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g21"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 199.77857096670382,337.8382031611266 239.0535284840885,379.5024801418416"
+    id="path13"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g7"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g20"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 181.39518760583897,231.51708757535857 151.5559001014672,198.28406264728983"
+    id="path14"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g0"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g8"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 181.39518760583897,231.51708757535857 234.6592436420308,291.5201235246465"
+    id="path15"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g0"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g9"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 236.65083132822664,293.7636873165172 276.553294109851,299.25945225075657"
+    id="path16"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g9"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g17"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 236.65083132822664,293.7636873165172 275.7326965567426,340.570759101439"
+    id="path17"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g9"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g23"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 181.39518760583897,231.51708757535857 66.84285388789179,204.83373154140884"
+    id="path18"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g0"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g10"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 63.92107353520949,204.153143875726 44.992498228489595,242.99169662336678"
+    id="path19"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g10"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g45"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 63.92107353520949,204.153143875726 29.669620182832375,150.66460190601182"
+    id="path20"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g10"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g44"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 63.92107353520949,204.153143875726 13.532139438500515,177.3292536954924"
+    id="path21"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g10"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g43"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 63.92107353520949,204.153143875726 12.519339209548571,237.0682721823001"
+    id="path22"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g10"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g27"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 63.92107353520949,204.153143875726 61.70013694951755,162.36588420485694"
+    id="path23"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g10"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g26"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 63.92107353520949,204.153143875726 5.99835311146469,206.0732016221518"
+    id="path24"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g10"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g25"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 103.99326243235542,302.5374939832118 92.28197266134717,357.6607089099673"
+    id="path25"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g11"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g42"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 181.39518760583897,231.51708757535857 106.20374814234096,300.5092551102114"
+    id="path26"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g0"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g11"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 103.99326243235542,302.5374939832118 62.535095158602985,342.332744327629"
+    id="path27"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g11"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g41"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 103.99326243235542,302.5374939832118 51.3058587013055,311.59348597606015"
+    id="path28"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g11"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g40"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 151.74300627495836,108.88302764856941 109.41402239323682,105.43493556409327"
+    id="path29"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g12"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g39"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 151.74300627495836,108.88302764856941 149.99179476907912,49.99208232389324"
+    id="path30"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g12"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g38"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 181.39518760583897,231.51708757535857 152.4480705003441,111.79899823108241"
+    id="path31"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g0"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g12"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 151.74300627495836,108.88302764856941 180.0269870754148,53.971757041173326"
+    id="path32"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g12"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g37"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 151.74300627495836,108.88302764856941 193.27700811161932,82.04701688619379"
+    id="path33"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g12"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g36"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 151.74300627495836,108.88302764856941 96.77610991473581,75.48389590073265"
+    id="path34"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g12"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g35"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 151.74300627495836,108.88302764856941 121.7473109634264,56.737514411456715"
+    id="path35"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g12"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g28"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 298.21860233827385,178.45225147330248 330.12103640821823,210.72622689113916"
+    id="path36"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g13"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g34"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 181.39518760583897,231.51708757535857 295.4871796098856,179.69294880901487"
+    id="path37"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g0"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g13"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 298.21860233827385,178.45225147330248 292.4520318619158,131.71297195153443"
+    id="path38"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g13"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g33"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 298.21860233827385,178.45225147330248 322.69994013693577,121.88420320336529"
+    id="path39"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g13"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g32"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 298.21860233827385,178.45225147330248 357.98725678987637,167.57859031592366"
+    id="path40"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g13"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g31"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 298.21860233827385,178.45225147330248 359.4177849184563,198.0162165402748"
+    id="path41"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g13"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g30"
+    inkscape:connection-end-point="d4" />
+<path
+    style="fill:none;stroke:yellow;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    d="M 298.21860233827385,178.45225147330248 345.60241051033137,141.82273671463756"
+    id="path42"
+    inkscape:connector-type="polyline"
+    inkscape:connector-curvature="0"
+    inkscape:connection-start="#g13"
+    inkscape:connection-start-point="d4"
+    inkscape:connection-end="#g29"
+    inkscape:connection-end-point="d4" />
+  </g>
+
+  <g inkscape:label="Nodes"                     inkscape:groupmode="layer" id="layer1">
+  <!-- Vertices -->
+    <g id="g0" transform="translate(181.39518760583897,231.51708757535857)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text0" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan0" sodipodi:role="line">Actor: Morgan Freeman
+Age: (age 81)</tspan></text>
+    </g>
+    <g id="g1" transform="translate(397.0,301.9633915379097)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text1" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan1" sodipodi:role="line">Movie: The Pawnbroker (film)
+ Total Gross: 2500000.0</tspan></text>
+    </g>
+    <g id="g2" transform="translate(136.85291776622347,243.21800126236712)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text2" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan2" sodipodi:role="line">Movie: Bruce Almighty
+ Total Gross: 484600000.0</tspan></text>
+    </g>
+    <g id="g3" transform="translate(258.4791523486098,259.8161043319955)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text3" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan3" sodipodi:role="line">Movie: High Crimes
+ Total Gross: 63800000.0</tspan></text>
+    </g>
+    <g id="g4" transform="translate(221.29379775050984,219.50650642842842)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text4" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan4" sodipodi:role="line">Movie: The Sum of All Fears (film)
+ Total Gross: 193900000.0</tspan></text>
+    </g>
+    <g id="g5" transform="translate(205.74958577760611,171.96615027056495)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text5" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan5" sodipodi:role="line">Movie: Along Came a Spider (film)
+ Total Gross: 105200000.0</tspan></text>
+    </g>
+    <g id="g6" transform="translate(160.64729859225196,294.6804972149558)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text6" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan6" sodipodi:role="line">Movie: Under Suspicion (2000 film)
+ Total Gross: 1380000.0</tspan></text>
+    </g>
+    <g id="g7" transform="translate(199.77857096670382,337.8382031611266)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text7" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan7" sodipodi:role="line">Movie: Nurse Betty
+ Total Gross: 29400000.0</tspan></text>
+    </g>
+    <g id="g8" transform="translate(149.5516211268053,196.0518292832062)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text8" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan8" sodipodi:role="line">Movie: Deep Impact (film)
+ Total Gross: 349500000.0</tspan></text>
+    </g>
+    <g id="g9" transform="translate(236.65083132822664,293.7636873165172)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text9" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan9" sodipodi:role="line">Movie: Kiss the Girls (1997 film)
+ Total Gross: 60500000.0</tspan></text>
+    </g>
+    <g id="g10" transform="translate(63.92107353520949,204.153143875726)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text10" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan10" sodipodi:role="line">Movie: Amistad (film)
+ Total Gross: 44200000.0</tspan></text>
+    </g>
+    <g id="g11" transform="translate(103.99326243235542,302.5374939832118)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text11" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan11" sodipodi:role="line">Movie: Seven (1995 film)
+ Total Gross: 327300000.0</tspan></text>
+    </g>
+    <g id="g12" transform="translate(151.74300627495836,108.88302764856941)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text12" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan12" sodipodi:role="line">Movie: Outbreak (film)
+ Total Gross: 189800000.0</tspan></text>
+    </g>
+    <g id="g13" transform="translate(298.21860233827385,178.45225147330248)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text13" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan13" sodipodi:role="line">Movie: The Shawshank Redemption
+ Total Gross: 58300000.0</tspan></text>
+    </g>
+    <g id="g14" transform="translate(379.81528045208466,333.5306284784818)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text14" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan14" sodipodi:role="line">Actor: Krishna Kaur Khalsa
+Age: None</tspan></text>
+    </g>
+    <g id="g15" transform="translate(322.25501101129225,35.72299777143756)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text15" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan15" sodipodi:role="line">Actor: Jaime Sánchez (actor)
+Age: (age 79)</tspan></text>
+    </g>
+    <g id="g16" transform="translate(316.55022285142763,275.534543810867)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text16" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan16" sodipodi:role="line">Actor: Jim Caviezel
+Age: (age 50)</tspan></text>
+    </g>
+    <g id="g17" transform="translate(279.52523832265126,299.66877803299235)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text17" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan17" sodipodi:role="line">Actor: Ashley Judd
+Age: (age 50)</tspan></text>
+    </g>
+    <g id="g18" transform="translate(229.20828718911287,127.94334832009612)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text18" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan18" sodipodi:role="line">Actor: Michael Moriarty
+Age: (age 77)</tspan></text>
+    </g>
+    <g id="g19" transform="translate(143.19524257571533,346.64470801510237)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text19" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan19" sodipodi:role="line">Actor: Monica Bellucci
+Age: (age 54)</tspan></text>
+    </g>
+    <g id="g20" transform="translate(241.11133121210668,381.68547073562826)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text20" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan20" sodipodi:role="line">Actor: Pruitt Taylor Vince
+Age: (age 58)</tspan></text>
+    </g>
+    <g id="g21" transform="translate(209.8916108449876,397.0)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text21" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan21" sodipodi:role="line">Actor: Crispin Glover
+Age: (age 54)</tspan></text>
+    </g>
+    <g id="g22" transform="translate(174.46030853018792,391.8143747872559)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text22" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan22" sodipodi:role="line">Actor: Aaron Eckhart
+Age: (age 50)</tspan></text>
+    </g>
+    <g id="g23" transform="translate(277.65545472632607,342.87358367602127)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text23" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan23" sodipodi:role="line">Actor: Jay O. Sanders
+Age: (age 65)</tspan></text>
+    </g>
+    <g id="g24" transform="translate(253.02676929375377,3.0)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text24" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan24" sodipodi:role="line">Actor: Stellan Skarsgård
+Age: (age 67)</tspan></text>
+    </g>
+    <g id="g25" transform="translate(3.0,206.17259286406986)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text25" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan25" sodipodi:role="line">Actor: Pete Postlethwaite
+Age: Died: (2011-01-02) (aged 64)</tspan></text>
+    </g>
+    <g id="g26" transform="translate(61.54091571281062,159.37011241819135)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text26" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan26" sodipodi:role="line">Actor: David Paymer
+Age: (age 64)</tspan></text>
+    </g>
+    <g id="g27" transform="translate(9.992927177477885,238.686061490031)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text27" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan27" sodipodi:role="line">Actor: Matthew McConaughey
+Age: (age 48)</tspan></text>
+    </g>
+    <g id="g28" transform="translate(120.2514469315108,54.137054683250724)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text28" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan28" sodipodi:role="line">Actor: Kevin Spacey
+Age: (age 59)</tspan></text>
+    </g>
+    <g id="g29" transform="translate(347.9759079021899,139.98793151221392)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text29" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan29" sodipodi:role="line">Actor: James Whitmore
+Age: Died: (2009-02-06) (aged 87)</tspan></text>
+    </g>
+    <g id="g30" transform="translate(362.27532523926806,198.92970617619568)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text30" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan30" sodipodi:role="line">Actor: Gil Bellows
+Age: (age 51)</tspan></text>
+    </g>
+    <g id="g31" transform="translate(360.93880885244783,167.04161692558654)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text31" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan31" sodipodi:role="line">Actor: Clancy Brown
+Age: (age 59)</tspan></text>
+    </g>
+    <g id="g32" transform="translate(323.89147224921356,119.13097759956695)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text32" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan32" sodipodi:role="line">Actor: William Sadler (actor)
+Age: (age 68)</tspan></text>
+    </g>
+    <g id="g33" transform="translate(292.0846849958209,128.73554751421108)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text33" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan33" sodipodi:role="line">Actor: Bob Gunton
+Age: (age 72)</tspan></text>
+    </g>
+    <g id="g34" transform="translate(332.2300402879435,212.85979260029927)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text34" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan34" sodipodi:role="line">Actor: Tim Robbins
+Age: (age 59)</tspan></text>
+    </g>
+    <g id="g35" transform="translate(94.21229322981982,73.9260627883145)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text35" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan35" sodipodi:role="line">Actor: Donald Sutherland
+Age: (age 83)</tspan></text>
+    </g>
+    <g id="g36" transform="translate(195.79679529180515,80.4189282625092)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text36" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan36" sodipodi:role="line">Actor: Patrick Dempsey
+Age: (age 52)</tspan></text>
+    </g>
+    <g id="g37" transform="translate(181.40071699575347,51.30476133327158)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text37" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan37" sodipodi:role="line">Actor: Cuba Gooding Jr.
+Age: (age 50)</tspan></text>
+    </g>
+    <g id="g38" transform="translate(149.9026246388042,46.99340783541225)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text38" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan38" sodipodi:role="line">Actor: Rene Russo
+Age: (age 64)</tspan></text>
+    </g>
+    <g id="g39" transform="translate(106.42392657192146,105.19136426169413)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text39" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan39" sodipodi:role="line">Actor: Dustin Hoffman
+Age: (age 81)</tspan></text>
+    </g>
+    <g id="g40" transform="translate(48.349215256248904,312.1016783990692)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text40" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan40" sodipodi:role="line">Actor: John C. McGinley
+Age: (age 59)</tspan></text>
+    </g>
+    <g id="g41" transform="translate(60.37081348448991,344.4102151060271)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text41" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan41" sodipodi:role="line">Actor: Gwyneth Paltrow
+Age: (age 46)</tspan></text>
+    </g>
+    <g id="g42" transform="translate(91.65851830297676,360.59521136575586)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text42" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan42" sodipodi:role="line">Actor: Brad Pitt
+Age: (age 54)</tspan></text>
+    </g>
+    <g id="g43" transform="translate(10.883985780956792,175.91954372317974)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text43" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan43" sodipodi:role="line">Actor: Djimon Hounsou
+Age: (age 54)</tspan></text>
+    </g>
+    <g id="g44" transform="translate(28.05182964759146,148.13819065997825)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text44" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan44" sodipodi:role="line">Actor: Anthony Hopkins
+Age: (age 80)</tspan></text>
+    </g>
+    <g id="g45" transform="translate(43.67818430174205,245.68846856440248)">
+     <circle cx="0" cy="0" r="3" fill="red"/>
+      <text sodipodi:linespacing="125%" y="1.5" x="0" id="text45" style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+<tspan y="1.5" x="0" id="tspan45" sodipodi:role="line">Actor: Nigel Hawthorne
+Age: Died: (2001-12-26) (aged 72)</tspan></text>
+    </g>
+</g>
+
+</svg>
